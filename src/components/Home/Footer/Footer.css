@@ -1,0 +1,41 @@
+.footer-container-first p {
+  text-align: center;
+  color: #000;
+  font-weight: 600;
+  margin-top: 24px;
+}
+.footer-container-first a {
+  color: #000;
+}
+.footer-text p {
+  margin-top: 5rem;
+}
+.footer-container {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 30px 30px;
+}
+
+.social {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.social img {
+  width: 35px;
+  height: 35px;
+}
+
+.social a {
+  text-decoration: none;
+  margin-right: 20px;
+}
+.footer-policy ul {
+  list-style: none;
+  display: flex;
+}
+.footer-policy li {
+  margin-right: 15px;
+}
